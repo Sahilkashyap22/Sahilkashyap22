@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
+ <img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+
 
 - 🔭 I’m currently working on Web Technologies
 - 🌱 I’m currently learning HTML5, CSS3, JS and Cloud
@@ -23,7 +25,7 @@ Here are some ideas to get you started:
 <a href="kashyap6sahil@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
   
-   <img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+  
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sahilkashyap22&theme=navy-gear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   

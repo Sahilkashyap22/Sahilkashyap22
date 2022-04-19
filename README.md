@@ -34,4 +34,4 @@ Here are some ideas to get you started:
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sahilkashyap22&theme=navy-gear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   
-  [Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)

@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **HTML5, CSS3, JAVASCRIPT, PYTHON 💻**
 
-- 🤝 I’m looking for help with **Cloud Computing ☁️**
+- 🤝 I’m looking for guidance with **Cloud Computing ☁️**
 
-- 💬 Ask me about **GCloud ☁️ Azure, BlockChain 🔗 and Space 🚀**
+- 💬 Ask me about **GCloud ☁️ Azure, BlockChain 🔗 and a little about Space 🚀**
 
 - 📫 How to reach me **kashyap6sahil@gmail.com 📮**
 
